@@ -1,7 +1,7 @@
 # greasy-scripts
 A few of my personal web browsing userscripts.
 
-#Installation
+# Installation
 To use these scripts you must have a userscript manager installed first, I use Tampermonkey.
 
 [For Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
